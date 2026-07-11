@@ -22,7 +22,7 @@
 ### 📁 Top Projects
 - 🏥 **Hospital Management System:** [Click to View Project](https://github.com/Ahmad-215/All-Projects) — A comprehensive desktop application built using Java Swing and secure file handling.
 - 🏧 **ATM Management System:** [Click to View Project](https://github.com/Ahmad-215/ATM-Management-System) — A console-based system developed in C++ using clean OOP concepts.
-- 🧮 **GUI Calculator:** [Click to View Project](https://github.com/Ahmad-215?tab=repositories) — A fully interactive Java-based graphical calculator.
+- 🧮 **GUI Calculator:** [Click to View Project](https://github.com/Ahmad-215/Calculator) — A fully interactive Java-based graphical calculator.
 
 ---
 
