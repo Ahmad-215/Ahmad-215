@@ -51,20 +51,17 @@
   <!-- Adobe Illustrator -->
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-</p>
-### 📊 GitHub Stats
+    ### 📊 GitHub Stats
 <p align="left">
-  <!-- آپ کی گٹ ہب پروفائل پکچر جو گول دائرے میں شو ہوگی -->
-  <img align="right" src="https://github.com/Ahmad-215.png" width="150" height="150" style="border-radius: 50%; margin-left: 20px;" alt="Ahmad Hassan Profile" />
-  
+  <!-- یہ لنک آپ کی اپنی پروفائل تصویر کو سیدھا گٹ ہب سے اٹھائے گا -->
+  <img align="right" src="https://avatars.githubusercontent.com/u/161405101?v=4" width="160" height="160" style="border-radius: 50%; margin-left: 20px; border: 2px solid #0e75b6;" alt="Ahmad Hassan" />
+
   <!-- گٹ ہب اسٹیٹس کارڈ -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-215&show_icons=true&theme=radial" alt="ahmad-215" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-215&show_icons=true&theme=radial" alt="ahmad-215 Status" />
 </p>
 <br>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-215&layout=compact" alt="ahmad-215" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-215&layout=compact" alt="ahmad-215 Languages" />
 </p>
-
----
-
+  </a>
+</p>
