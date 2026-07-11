@@ -53,6 +53,18 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
 </p>
+### 📊 GitHub Stats
+<p align="left">
+  <!-- آپ کی گٹ ہب پروفائل پکچر جو گول دائرے میں شو ہوگی -->
+  <img align="right" src="https://github.com/Ahmad-215.png" width="150" height="150" style="border-radius: 50%; margin-left: 20px;" alt="Ahmad Hassan Profile" />
+  
+  <!-- گٹ ہب اسٹیٹس کارڈ -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-215&show_icons=true&theme=radial" alt="ahmad-215" />
+</p>
+<br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-215&layout=compact" alt="ahmad-215" />
+</p>
 
 ---
 
