@@ -8,7 +8,7 @@
 
 - 🌱 I'm Currently studying Software engineering **Java in OOP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ahmad-215/Ahmad-215/issues/1](https://github.com/Ahmad-215/Ahmad-215/issues/1)
+- 👨‍💻 All of my projects are available at [https://github.com/users/Ahmad-215/projects/3)
 
 - 📫 How to reach me **ahmadhassan7590385@gmail.com**
 
