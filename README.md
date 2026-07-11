@@ -68,10 +68,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-215&show_icons=true&theme=radial" alt="ahmad-215" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-215&layout=compact" alt="ahmad-215" />
-</p>
