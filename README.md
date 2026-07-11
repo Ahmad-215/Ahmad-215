@@ -1,5 +1,4 @@
-<img width="1223" src=""https://github.com/user-attachments/assets/0ea2dd07-b436-4152-b5d9-2fc530a4523a"" alt="Banner" />
-
+<img width="1223" height="864" alt="Gemini_Generated_Image_l36mwbl36mwbl36m" src="https://github.com/user-attachments/assets/28e0eb0e-6da9-4df9-b4d4-cd74b22ff580" />
 <h1 align="center">Hi 👋, I'm Ahmad hassan</h1>
 <h3 align="center">An Aspiring Software Engineer from Pakistan</h3>
 <img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
