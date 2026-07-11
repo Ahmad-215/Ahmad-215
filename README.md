@@ -1,8 +1,10 @@
-![logo](https://github.com/Ahmad-215/Ahmad-215/blob/main/Gemini_Generated_Image_rfc4v7rfc4v7rfc4.png)
+<img width="1223" height="864" alt="Gemini_Generated_Image_l36mwbl36mwbl36m" src="https://github.com/user-attachments/assets/3af3c6a3-85d0-4e7d-b4b9-9e391d73a11f" />![logo](https://github.com/Ahmad-215/Ahmad-215/blob/main/Gemini_Generated_Image_rfc4v7rfc4v7rfc4.png)
 <h1 align="center">Hi 👋, I'm Ahmad hassan</h1>
 <h3 align="center">An Aspiring Software Engineer from Pakistan</h3>
 <img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-215&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-215" /> </p>
+
+
 
 - 🌱 I'm Currently studying Software engineering **Java in OOP**
 
@@ -17,6 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/device/master/icons/python/python-original.svg"alt="python"width="40" height="40"/></a>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-215&show_icons=true&locale=en&layout=compact" alt="ahmad-215" /></p>
