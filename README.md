@@ -51,17 +51,24 @@
   <!-- Adobe Illustrator -->
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    ### 📊 GitHub Stats
+    ### 🏆 GitHub Activity Trophies
 <p align="left">
-  <!-- یہ لنک آپ کی اپنی پروفائل تصویر کو سیدھا گٹ ہب سے اٹھائے گا -->
-  <img align="right" src="https://avatars.githubusercontent.com/u/161405101?v=4" width="160" height="160" style="border-radius: 50%; margin-left: 20px; border: 2px solid #0e75b6;" alt="Ahmad Hassan" />
-
-  <!-- گٹ ہب اسٹیٹس کارڈ -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-215&show_icons=true&theme=radial" alt="ahmad-215 Status" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmad-215&theme=radial&column=4&margin-w=15&margin-h=15" alt="ahmad-215 Trophies" />
+  </a>
 </p>
-<br>
+
+---
+
+### 💡 Coding Philosophy
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-215&layout=compact" alt="ahmad-215 Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=0E75B6&center=false&vCenter=true&width=600&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Talk+is+cheap.+Show+me+the+code.;Striving+to+build+efficient+software+solutions." alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From Pakistan with Passion for Coding 🇵🇰
 </p>
   </a>
 </p>
