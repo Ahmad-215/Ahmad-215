@@ -1,11 +1,11 @@
 <!-- MAIN BANNER IMAGE -->
 <p align="center">
-  <img width="100%" alt="Ahmad Hassan Portfolio Banner" src="https://github.com/user-attachments/assets/65f7eaf5-b21b-4117-9f3a-7a36c04e48c0" />
+  <img width="100%" alt="Ahmad Hassan Portfolio Banner" src="watermarked_img_11568191411451478935.jpg" />
 </p>
 
 <!-- ANIMATED HEADER TITLE -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8B%2C+I'm+Ahmad+Hassan;Full-Stack+MERN+Developer;Software+Engineer+%26+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8B%2C+I'm+Ahmad+Hassan;Full-Stack+MERN+%26+Desktop+Software+Engineer;Building+Robust+Web+%26+Desktop+Solutions" alt="Typing SVG" />
 </h1>
 
 <!-- QUICK LINKS & BADGES -->
@@ -32,18 +32,18 @@
 
 ### 🚀 About Me & Engineering Focus
 
-> **Full-Stack Software Engineer** specialized in constructing high-performance, responsive web applications and scalable backend architecture using the **MERN Stack**. Focused on clean code, seamless user interfaces, and robust systems.
+> **Software Engineer** specializing in constructing robust, high-performance web and desktop applications, scalable backend architectures, and clean-code software solutions. Let's build! 🚀
 
 <table>
   <tr>
     <td width="50%">
       <b>🎓 Degree:</b> Software Engineering Student at NUML<br/>
-      <b>💻 Core Specialization:</b> MERN Stack (MongoDB, Express, React, Node.js)<br/>
-      <b>⚡ Key Strengths:</b> Full-Stack Web Development, RESTful APIs, DB Design<br/>
+      <b>💻 Core Specialization:</b> Full-Stack Web & Desktop Software Architecture<br/>
+      <b>⚡ Key Strengths:</b> Scalable Systems, RESTful APIs, OOP, UI/UX<br/>
     </td>
     <td width="50%">
       <b>🌍 Base:</b> Faisalabad, Pakistan 🇵🇰<br/>
-      <b>💼 Status:</b> Open for Freelance & Remote Full-Stack Engineering<br/>
+      <b>💼 Status:</b> Open for Freelance & Remote Software Engineering<br/>
       <b>📧 Email:</b> <a href="mailto:ahmadhassan7590305@gmail.com">ahmadhassan7590305@gmail.com</a>
     </td>
   </tr>
@@ -66,11 +66,10 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <b>Frontend Engineering:</b><br/>
+  <b>Frontend & Desktop Apps:</b><br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
@@ -79,8 +78,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -89,7 +88,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
@@ -112,7 +111,7 @@
 ### 💡 Engineering Philosophy
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=0E75B6&center=false&vCenter=true&width=650&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Building+scalable+MERN+Stack+applications.;Crafting+clean%2C+efficient%2C+and+maintainable+code." alt="Typing SVG Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=0E75B6&center=false&vCenter=true&width=650&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Building+robust+web+%26+desktop+software.;Crafting+clean%2C+efficient%2C+and+maintainable+code." alt="Typing SVG Philosophy" />
 </p>
 
 ---
