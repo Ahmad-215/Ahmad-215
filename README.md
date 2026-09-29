@@ -1,6 +1,6 @@
 <!-- MAIN BANNER IMAGE -->
 <p align="center">
-  <img width="100%" alt="Ahmad Hassan Portfolio Banner" src="watermarked_img_11568191411451478935.jpg" />
+<img width="2064" height="512" alt="Image" src="https://github.com/user-attachments/assets/10daf3ea-9915-46b2-89b7-f303bd02e42f" />  
 </p>
 
 <!-- ANIMATED HEADER TITLE -->
