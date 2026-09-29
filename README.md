@@ -1,6 +1,6 @@
 <!-- MAIN BANNER IMAGE -->
 <p align="center">
-<img width="2064" height="512" alt="Image" src="https://github.com/user-attachments/assets/10daf3ea-9915-46b2-89b7-f303bd02e42f" />  
+<img width="2064" height="512" alt="Image" src="https://github.com/user-attachments/assets/f5bd8c39-2c4b-4877-992b-8d89371bad43" />
 </p>
 
 <!-- ANIMATED HEADER TITLE -->
